@@ -5,11 +5,13 @@ source_metadata:
   title: བོད་ཀྱི་གསོ་རིག་ལོ་རྒྱུས་སྐོར་གྱི་དྲིས་ལན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་གཟིངས།
   author: ''
   volumes:
-    c5b5095fe2274335a75994cda04c9f58:
+    b23d4d1c7f3f498da1e2424c753ba1d7:
       image_group_id: I2PD19624
-      title: ''
+      title: Volume 1 of bod kyi gso rig lo rgyus skor gyi dris lan rgya mtshor 'jug
+        pa'i gru gzings/
       volume_number: 1
       total_pages: 158
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་གསོ་རིག་ལོ་རྒྱུས་སྐོར་གྱི་དྲིས་ལན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་གཟིངས།
   author: ''
