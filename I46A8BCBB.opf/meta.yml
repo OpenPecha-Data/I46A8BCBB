@@ -1,0 +1,28 @@
+id: I46A8BCBB
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-22T21:19:09+00:00'
+last_modified: '2022-06-09T07:49:01.322522+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1PD159533
+  title: བོད་ཀྱི་གསོ་རིག་ལོ་རྒྱུས་སྐོར་གྱི་དྲིས་ལན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་གཟིངས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    '1703':
+      image_group_id: I2PD19624
+      title: Volume 1 of bod kyi gso rig lo rgyus skor gyi dris lan rgya mtshor 'jug
+        pa'i gru gzings/
+      total_pages: 158
+      order: 1
+      base_file: 1703.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
